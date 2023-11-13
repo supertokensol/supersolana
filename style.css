@@ -44,4 +44,11 @@ button:hover {
     top: 0;
     right: 0;
     margin: 10px;
+    /* Additional styles for the link */
+}
+
+#twitter_logo {
+    width: 50px;
+    height: auto;
+    
 }
