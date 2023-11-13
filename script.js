@@ -47,7 +47,7 @@ function init() {
     controls.enablePan = false;
 
     const loader = new THREE.TextureLoader();
-    const textureSphereBg = loader.load('img/textureSphereBg.png');
+    const textureSphereBg = loader.load('img/textureSpherebg.png');
     const texturenucleus = loader.load('img/texturenucleus.png');
     const textureStar = loader.load("img/textureStar.png");
     const texture1 = loader.load("img/texture1.png");  
