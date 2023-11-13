@@ -72,5 +72,14 @@ button:hover {
   align-items:center;
   justify-content:center;
   background-color: #000;
-  z-index: 999
-} 
+  z-index: 999;
+}
+
+#loading img {
+  width: 200px; 
+  height: 200px; 
+
+#loading p {
+  color: white;
+}
+
